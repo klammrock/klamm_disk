@@ -1,0 +1,10 @@
+uploaded dir setting
+upload file (to dir)
+get files list (by dir)
+get file (by path)
+users
+  auth by OAth token
+  security
+  dirs split by user
+postgres metadata
+redis cache
